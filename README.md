@@ -1,4 +1,4 @@
-# IET 4. gyakrolat
+# IET 4. gyakrolat [![Build Status](https://travis-ci.org/nagybalint001/ivt-lab.svg?branch=master)](https://travis-ci.org/nagybalint001/ivt-lab)
 branch-A
 branch-B
 
